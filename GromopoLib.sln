@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GromopoLib", "GromopoLib\GromopoLib.csproj", "{04AD2BC4-9AFD-4923-A8AC-AAA1B76ADCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AD2BC4-9AFD-4923-A8AC-AAA1B76ADCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AD2BC4-9AFD-4923-A8AC-AAA1B76ADCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AD2BC4-9AFD-4923-A8AC-AAA1B76ADCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AD2BC4-9AFD-4923-A8AC-AAA1B76ADCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFCF4FD-4479-405A-AC69-8B37A8821D69}
+	EndGlobalSection
+EndGlobal
